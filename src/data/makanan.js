@@ -18,11 +18,12 @@ export const ResepMakanan = {
         "Tambahkan kecap manis, saus tiram, garam, dan merica.",
         "Aduk rata hingga matang, sajikan hangat."
       ],
-      "image_url": "https://images.unsplash.com/photo-1680674774705-90b4904b3a7f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "image_url": "https://i.imgur.com/ArM8mF1.jpeg"
     },
+
     "resep2": {
       "id": 2,
-      "name": "Spruce-Frame Wooden House",
+      "name": "Spruce Frame House",
       "ingredients": [
         "500 gram ayam (potong kecil)",
         "2 liter air",
@@ -39,8 +40,9 @@ export const ResepMakanan = {
         "Tambahkan garam dan gula, masak hingga bumbu meresap.",
         "Sajikan dengan nasi dan pelengkap."
       ],
-      "image_url": "https://images.unsplash.com/photo-1572656306390-40a9fc3899f7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "image_url": "https://i.imgur.com/e9qYB6z.jpeg"
     },
+
     "resep3": {
       "id": 3,
       "name": "Modern Concrete-Quartz House",
@@ -61,11 +63,12 @@ export const ResepMakanan = {
         "Aduk terus hingga santan mengering dan bumbu meresap.",
         "Sajikan rendang dengan nasi."
       ],
-      "image_url": "https://www.astronauts.id/blog/wp-content/uploads/2023/03/Resep-Rendang-Daging-Sapi-Untuk-Lebaran-Gurih-dan-Nikmat-1200x675.jpg"
+      "image_url": "https://i.imgur.com/9K5N4Df.jpeg"
     },
+
     "resep4": {
       "id": 4,
-      "name": "Tree House with Platforms",
+      "name": "Medieval Stone House",
       "ingredients": [
         "500 gram ayam",
         "2 cm lengkuas",
@@ -81,11 +84,12 @@ export const ResepMakanan = {
         "Goreng ayam hingga kecokelatan.",
         "Goreng adonan kremes, sajikan bersama ayam."
       ],
-      "image_url": "https://www.dapurkobe.co.id/wp-content/uploads/ayam-pentung-crispy.jpg"
+      "image_url": "https://i.imgur.com/OH3CXYp.jpeg"
     },
+
     "resep5": {
       "id": 5,
-      "name": "Stone Brick Survival Hut",
+      "name": "Small Cottage House",
       "ingredients": [
         "100 gram kacang tanah",
         "1 siung bawang putih",
@@ -100,8 +104,9 @@ export const ResepMakanan = {
         "Susun sayuran rebus dan lontong di piring.",
         "Siram dengan saus kacang, sajikan."
       ],
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Gado_gado_jakarta.jpg"
+      "image_url": "https://i.imgur.com/JkZ7FFp.jpeg"
     },
+
     "resep6": {
       "id": 6,
       "name": "Underground Base Entrance",
@@ -118,11 +123,12 @@ export const ResepMakanan = {
         "Rebus pempek hingga matang, angkat.",
         "Goreng pempek, sajikan dengan cuko."
       ],
-      "image_url": "https://lingkar.news/wp-content/uploads/2023/03/Aneka-Resep-Pempek-Makanan-Tradisional-Khas-Palembang.jpg"
+      "image_url": "https://i.imgur.com/8j45lxr.jpeg"
     },
+
     "resep7": {
       "id": 7,
-      "name": "Medieval Stone Tower",
+      "name": "Bakery-Style Village House",
       "ingredients": [
         "500 gram daging sapi giling",
         "100 gram tepung tapioka",
@@ -135,11 +141,12 @@ export const ResepMakanan = {
         "Bentuk adonan menjadi bulatan kecil.",
         "Rebus bakso hingga matang, sajikan dengan kuah."
       ],
-      "image_url": "https://images.unsplash.com/photo-1687425973269-af0d62587769?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "image_url": "https://i.imgur.com/ResWydG.jpeg"
     },
+
     "resep8": {
       "id": 8,
-      "name": "Wooden Cabin with Porch",
+      "name": "Small Spruce Cabin",
       "ingredients": [
         "500 gram daging ayam (potong kecil)",
         "2 sdm kecap manis",
@@ -152,11 +159,12 @@ export const ResepMakanan = {
         "Tusuk ayam ke tusuk sate.",
         "Bakar hingga matang, sajikan dengan bumbu kacang."
       ],
-      "image_url": "https://images.unsplash.com/photo-1645696301019-35adcc18fc21?q=80&w=1929&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "image_url": "https://i.imgur.com/YBw2kIl.jpeg"
     },
+
     "resep9": {
       "id": 9,
-      "name": "Spruce Medieval House",
+      "name": "Nether Fortress-Style House",
       "ingredients": [
         "500 gram daging sapi",
         "2 liter air",
@@ -172,11 +180,12 @@ export const ResepMakanan = {
         "Masukkan bumbu ke dalam kuah daging.",
         "Masak hingga bumbu meresap, sajikan."
       ],
-      "image_url": "https://asset.kompas.com/crops/hNtKM00giVbyEov1LyRMTB65YP8=/0x38:1000x705/1200x800/data/photo/2023/09/08/64faa742ca9ae.jpg"
+      "image_url": "https://i.imgur.com/3K7oKxH.jpeg"
     },
+
     "resep10": {
       "id": 10,
-      "name": "Small Japanese House",
+      "name": "Tiny Farmhouse",
       "ingredients": [
         "100 gram kacang panjang",
         "100 gram tauge",
@@ -191,7 +200,7 @@ export const ResepMakanan = {
         "Campur saus dengan sayuran segar.",
         "Sajikan segera."
       ],
-      "image_url": "https://asset-2.tstatic.net/travel/foto/bank/images/karedok.jpg"
+      "image_url": "https://i.imgur.com/V27xpG1.jpeg"
     }
   }
 };
